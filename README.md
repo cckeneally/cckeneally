@@ -1,10 +1,9 @@
-👋 Hi, I’m Chris Keneally
+# Chris Keneally
 
-👀 I’m a PhD student studying microbial ecology in hypersaline estuaries
+I’m a PhD candidate at the University of Adelaide (Department of Ecology & Evolutionary Biology). I'm studying microbial ecology & biogeochemistry - and I'm relatively new to github, metagenomics & bioinformatics. So please contact me with any questions/clarification on anything here!
 
-🌱 I'm currently learning ✨ everything ✨ (including github), using it for ongoing projects/scripts/other misc. Please contact me for clarification on anything here!
-
-📫 How to reach me: christopher.keneally@adelaide.edu.au
+- christopher.keneally@adelaide.edu.au
+- Twitter: [@cckeneally](https://twitter.com/cckeneally)
 
 <!---
 cckeneally/cckeneally is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
