@@ -1,6 +1,6 @@
 # Chris Keneally
 
-I’m a PhD candidate at the University of Adelaide (Department of Ecology & Evolutionary Biology). I'm studying microbial ecology & biogeochemistry - and I'm relatively new to github, metagenomics & bioinformatics. So please contact me with any questions/clarification on anything here!
+I’m a PhD candidate at the University of Adelaide (Department of Ecology & Evolutionary Biology). I'm studying microbial ecology, biogeochemistry, metagenomics & bioinformatics. Please contact me with any questions!
 
 📭 christopher.keneally@adelaide.edu.au
 
