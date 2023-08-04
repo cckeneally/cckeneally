@@ -1,6 +1,6 @@
 # Chris Keneally
 
-I’m a PhD candidate at the University of Adelaide (Department of Ecology & Evolutionary Biology). I'm studying microbial ecology, biogeochemistry, metagenomics & bioinformatics. Please contact me with any questions!
+I’m a PhD candidate at the University of Adelaide (Department of Ecology & Evolutionary Biology). I'm studying microbial ecology, biogeochemistry, & bioinformatics. Please contact me with any questions!
 
 📭 christopher.keneally@adelaide.edu.au
 
